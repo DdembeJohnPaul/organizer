@@ -7,4 +7,6 @@ but it can be customized beyond that if need be.
 The code implements 2 forms of layout, symmetric and asymmetric.
 To get the symmetric layout add the organizer-balance class to your
 field wrapper most-likely on manage display page of the entity bundle
-To get asymmetric layout of the field item values add the organizer-no-balance class to your field wrapper
+To get asymmetric layout of the field item values add the organizer-no-balance class to your field wrapper.
+The asymmetric layout can be used with a multiple value field for a paragraph with text while
+the symmetric layout is useful for images that may not have any text attached
